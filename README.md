@@ -6,7 +6,7 @@
 
 - 🌱 I’m Student of Bachelor's of engineering at Sinhgad college of engineering, Pune.
 - 🥅 2022 Goals: Learn more about **Web Developement** and **Competitive Programmming**
-- ✨ 3⭐ on coder Codechef
+- ✨ 3⭐ coder on Codechef
 - 🔭 Check out my <a target="_blank" href="https://www.linkedin.com/in/vaishnavi-waghmale-019005222">LinkedIn Profile</a>
 - ⚡ I love to draw and making crafts
 - 🌱 I'm currently learning **Backend Web Developement**.
