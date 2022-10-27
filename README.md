@@ -34,7 +34,7 @@
 <img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img alt="Vue"  src="https://img.icons8.com/color/48/000000/vue--v1.png""/>
+<img alt="Vue"  src="[https://img.icons8.com/color/48/000000/vue--v1.png"](https://img.icons8.com/color/344/vue-js.png)"/>
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
 
 
