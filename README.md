@@ -40,6 +40,12 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavi-Waghmale&show_icons=true&locale=en&layout=compact" alt="Vaishnavi-Waghmale" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Waghmale&show_icons=true&locale=en" alt="Vaishnavi-Waghmale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Waghmale&" alt="Vaishnavi-Waghmale" /></p>
+
 
 
 
