@@ -44,7 +44,7 @@
 
 ---
 
-<p justify-content="space-between" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Waghmale&show_icons=true&locale=en" alt="Vaishnavi-Waghmale" />
+<p display="flex" justify-content="space-between" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Waghmale&show_icons=true&locale=en" alt="Vaishnavi-Waghmale" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Waghmale&" alt="Vaishnavi-Waghmale" /></p>
 
