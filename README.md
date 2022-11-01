@@ -50,11 +50,11 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
 <img src="https://img.shields.io/github/followers/Vaishnavi-Waghmale.svg?style=social&label=Follow"></img>
 
 <img src="https://gpvc.arturio.dev/Vaishnavi-Waghmale"></img>
-</div>
+</div>-->
 
 
 
