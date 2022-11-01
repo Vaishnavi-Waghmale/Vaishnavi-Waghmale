@@ -49,10 +49,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Waghmale&" alt="Vaishnavi-Waghmale" /></p>
 
 ---
- 
- <div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/Vaishnavi-Waghmale.svg?style=social&label=Follow"></img>
