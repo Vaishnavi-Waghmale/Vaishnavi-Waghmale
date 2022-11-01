@@ -44,11 +44,22 @@
 
 ---
 
-<p display="flex" justify-content="space-between" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Waghmale&show_icons=true&locale=en" alt="Vaishnavi-Waghmale" />
+<p display="flex" justify-content="space-between" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Waghmale&show_icons=true&locale=en" alt="Vaishnavi-Waghmale" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Waghmale&" alt="Vaishnavi-Waghmale" /></p>
 
 ---
+ 
+ <div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/Vaishnavi-Waghmale.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/Vaishnavi-Waghmale"></img>
+</div>
+
 
 
 
