@@ -56,6 +56,11 @@
 <img src="https://gpvc.arturio.dev/Vaishnavi-Waghmale"></img>
 </div>-->
  
+ ## ⚡ Recent GitHub Activity
+<a href="https://github.com/Vaishnavi-Waghmale"><img alt="Vaishnavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vaishnavi-Waghmale&custom_title=Vaishnavi's%20Contribution%20Graph&theme=react-dark" /></a>
+
+
+ 
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
