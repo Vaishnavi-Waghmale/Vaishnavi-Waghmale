@@ -35,8 +35,10 @@
 <img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img alt="Vue"  src="https://img.icons8.com/color/48/000000/vue-js.png"/>
- <img alt="Vue"  src="https://img.icons8.com/color/48/000000/nuxt-jc.png"/>
+ <img alt="Nuxt"  src="https://img.icons8.com/color/48/000000/nuxt-jc.png"/>
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img alt="MySql"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
 
 
 ---
