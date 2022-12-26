@@ -55,8 +55,6 @@
 
 ### Recent Projects 👨‍💻
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=### Recent Projects 👨‍💻
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Image-editor&show_icons=true&theme=great-gatsby"> 
@@ -65,8 +63,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Weather-Forecasting-App&show_icons=true&theme=great-gatsby">
 </div>
  
-###⚡Recent GitHub Activity
-<a href="https://github.com/Vaishnavi-Waghmale"><img alt="Vaishnavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vaishnavi-Waghmale&custom_title=Vaishnavi's%20Contribution%20Graph&theme=react-dark" /></a>
+
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/Vaishnavi-Waghmale.svg?style=social&label=Follow"></img>
