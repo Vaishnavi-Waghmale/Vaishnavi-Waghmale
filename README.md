@@ -57,10 +57,10 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Image-editor&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Recipes-App&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Jokes-Website&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Weather-Forecasting-App&show_icons=true&theme=great-gatsby">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Image-editor&show_icons=true&theme=solarized-light"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Recipes-App&show_icons=true&theme=solarized-light"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Jokes-Website&show_icons=true&theme=solarized-light"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Weather-Forecasting-App&show_icons=true&theme=solarized-light">
 </div>
  
 
