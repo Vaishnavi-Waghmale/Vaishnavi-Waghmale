@@ -63,7 +63,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Waghmale&repo=Weather-Forecasting-App&show_icons=true&theme=solarized-light">
 </div>
  
-
+---
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/Vaishnavi-Waghmale.svg?style=social&label=Follow"></img>
