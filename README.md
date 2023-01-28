@@ -38,7 +38,7 @@
  <img alt="Nuxt"  src="https://img.icons8.com/color/48/000000/nuxt-jc.png"/>
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
  <img alt="MySql"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
- <img alt="Node"  src="https://user-images.githubusercontent.com/102860344/215277198-917d0f17-784b-489d-8874-aa841196aeef.png"/>
+ <img alt="Node"  src="https://user-images.githubusercontent.com/102860344/215277247-882dfd64-ba69-4076-9e5d-69bb7003489c.png"/>
 
 ---
 
