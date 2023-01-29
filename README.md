@@ -39,6 +39,8 @@
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
  <img alt="MySql"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
  <img alt="Node"  src="https://user-images.githubusercontent.com/102860344/215277247-882dfd64-ba69-4076-9e5d-69bb7003489c.png"/>
+  <img alt="MongoDB"  src="https://user-images.githubusercontent.com/102860344/215338958-43e214b2-7328-45b3-bea7-c33dc9ddf610.png"/>
+ 
 
 ---
 
